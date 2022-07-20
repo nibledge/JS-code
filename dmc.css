@@ -1,0 +1,47 @@
+
+body {
+    background-color: #add8e6;
+    background-repeat: no-repeat;
+    background-position: top right;
+    overflow: hidden;
+
+}
+.logo {
+    margin: 100px;
+    
+}
+.UB {
+    float: left;
+}
+.date {
+    float: right;
+}
+
+/* ims */
+
+.ims {
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: lightcyan;
+}
+
+.box {
+    background-color: rgb(49, 92, 233);
+    padding: 5px 10px 5px 10px;
+    color: lightskyblue;
+    font-size: 20px;
+}
+.info {
+    text-align: center;
+    
+}
+
+table, th, td {
+    border: 1px solid black;
+    
+}
+table{
+    width: 60%;
+    text-align: center;
+    border-left-style: dotted;
+}
